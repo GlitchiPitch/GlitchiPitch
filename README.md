@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GlitchiPitch
-- 👀 I’m interested in music, science, game developing, self-development
+- 👀 I’m interested in music, science, game and self-development
 - 🌱 I’m currently learning how to use githHub, basic Unity, C++
 - 💞️ I’m looking to collaborate on gameDev
 - 📫 How to reach me nikitareutsky@gmail.com
