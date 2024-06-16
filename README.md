@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlitchiPitch
-- 👀 I’m interested in music, science, game and self-development
-- 🌱 I’m currently learning Lua, Unity, C++
+- 👀 I’m interested in music, science, gamedev
+- 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on gameDev
 - 📫 How to reach me nikitareutsky@gmail.com
 
