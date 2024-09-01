@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @GlitchiPitch
-- 👀 I’m interested in music, science, gamedev
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on gameDev
-- 📫 How to reach me nikitareutsky@gmail.com
-
-<!---
-GlitchiPitch/GlitchiPitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+На данный момент являюсь преподавателем по созданию игр в роблокс, unity и python в онлайн-школе. работаю 3 года.
+--
+Имел опыт коммерческой разработки игры на роблокс, полгода на различных позициях в небольшой команде.
+--
+Сейчас меняю специализацию на fullstack.
+На данным момент стэк освоенных библиотек и фрэймфорков:
+- Frontend: CSS/HTML/Js/React 
+- Backend: Python/Fastapi, postgres, docker, redis
